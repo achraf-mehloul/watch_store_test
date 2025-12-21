@@ -64,8 +64,8 @@ export const products: Product[] = [
     brand: 'Ash Pro',
     images: [
       'products/watch5.jpg',
-      'products/watch5.jpg',
-      'products/watch5.jpg'
+      'products/watch4.jpg',
+      'products/watch3.jpg'
     ],
     shortDescription: 'Professional diving watch 200m water-resistant',
     description: 'Professional dive watch with unidirectional rotating bezel...',
@@ -78,8 +78,8 @@ export const products: Product[] = [
     brand: 'Ash Luxury',
     images: [
       'products/watch6.jpg',
-      'products/watch6.jpg',
-      'products/watch6.jpg'
+      'products/watch2.jpg',
+      'products/watch1.jpg'
     ],
     shortDescription: 'Elegant rose gold with diamond accents',
     description: 'Luxury meets elegance with rose gold finish and diamond hour markers...',
