@@ -8,8 +8,8 @@ export const products: Product[] = [
     brand: 'Ash Collection',
     images: [
       'products/watch1.jpg',
-      'products/watch1.jpg',
-      'products/watch1.jpg'
+      'products/watch2.jpg',
+      'products/watch3.jpg'
     ],
     shortDescription: 'Timeless sophistication with premium leather strap',
     description: 'Experience luxury with our Classic Elegance timepiece...',
@@ -22,8 +22,8 @@ export const products: Product[] = [
     brand: 'Ash Pro',
     images: [
       'products/watch2.jpg',
-      'products/watch2.jpg',
-      'products/watch2.jpg'
+      'products/watch1.jpg',
+      'products/watch3.jpg'
     ],
     shortDescription: 'Durable sports watch with chronograph function',
     description: 'Built for performance and style...',
@@ -36,8 +36,8 @@ export const products: Product[] = [
     brand: 'Ash Luxury',
     images: [
       'products/watch3.jpg',
-      'products/watch3.jpg',
-      'products/watch3.jpg'
+      'products/watch2.jpg',
+      'products/watch1.jpg'
     ],
     shortDescription: 'Premium gold-plated luxury timepiece',
     description: 'Elevate your style with this exquisite gold-plated masterpiece...',
@@ -50,8 +50,8 @@ export const products: Product[] = [
     brand: 'Ash Collection',
     images: [
       'products/watch4.jpg',
-      'products/watch4.jpg',
-      'products/watch4.jpg'
+      'products/watch6.jpg',
+      'products/watch5.jpg'
     ],
     shortDescription: 'Sleek all-black minimalist design',
     description: 'Minimalist perfection in jet black...',
